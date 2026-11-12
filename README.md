@@ -1,10 +1,16 @@
-# Cripto-Empendedores & RKBZ Token Utility
-Repositorio oficial del sitio web Cripto Emprendedores y Ecosistema de "RKBZ Utility Token".
-La presente compilación, corresponde a la libreria y código fuente desarrollo de las utilidades y ecosistema de Cripto Emprendedores y RKBZ Utility Token, desarrollo propio del entorno en REMIX IDE y Red Base. El sitio y dependencias del ecosistema RKBZ fué desarrollada para los entornos EMV y su pool en UNISWAP, lo que permitió su lanzamiento en vivo en la  Web y Web3. La web corresponde a una web amp  y puede verse en vivo siguiendo este link 👉 https://crypto-business.netlify.app, probarla e instalarla en la versión web para móviles.
-El repositorio contiene toda la docuentación y libreria necesaria en un solo archivo html.
-Se requerirá de todas las instacias y recursos cargados para compilar la aplicación. Luego de su revisión logrará ver su aplicación totalmente funcional alojando el html en una carpeta pública en su alojamiento web.
+# Cripto Emprendedores & RKBZ Utility Token
 
-Para más información de esta instancia de desarrollo, puede escribir a nuestro correo: crypto.businessrc@gmail.com
+Repositorio oficial del sitio web **Cripto Emprendedores** y el ecosistema **RKBZ Utility Token**, desarrollado en Remix IDE para la red **Base Mainnet (EVM)** y con liquidez activa en **Uniswap**.
 
-Ramón Cabeza. CEO & Desarrollador Web. Cripto "RKBZ Token Utility".
+## Información del Smart Contract
+- **Token:** RKBZ Utility Token
+- **Red:** Base Mainnet (ERC-20)
+- **Contrato Oficial:** `0x17c3120c002B46B4ccD41AaDd3AA8A24228Aceb7`
+- **Sitio Web Oficial:** https://crypto-business.netlify.app
 
+## Descripción Técnica
+Aplicación web en formato AMP alojada públicamente que integra los enlaces oficiales de verificación en BaseScan, el pool de intercambio en Uniswap y los canales de soporte comunitario.
+
+## Contacto y Desarrollo
+- **Fundador y Desarrollador:** Ramón Cabeza
+- **Correo Oficial:** crypto.businessrc@gmail.com
