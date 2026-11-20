@@ -291,6 +291,8 @@
       ]
     }
     </script>
+    <!-- SDK Oficial Telegram Mini App -->
+    <script src="https://telegram.org"></script>
 </head>
 <body>
         <!-- Preloader Animado -->
@@ -473,8 +475,10 @@
     <li><strong>Explorador:</strong> <a Codigo Bloque RKBZ href="https://basescan.org/token/0x17c3120c002B46B4ccD41AaDd3AA8A24228Aceb7" target="_blank" rel="noopener">Ver en BaseScan</a></li>
     </ul>
     <br>
+    <!-- BOTON NFTs COLECCIONABLES EN GETGEMS -->
+    <a href="https://getgems.io/rkbz-elit" target="_blank" rel="noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #FF9500 0%, #F5A102 100%); color: #FFFFFF; font-family: Arial, sans-serif; font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; text-decoration: none; padding: 14px 32px; border-radius: 8px; box-shadow: 0 4px 15px rgba(212, 175, 55, 0.35);">RKBZ Token Getgems</a><br><br>
     <!-- FIN SECCIÓN -->
-        
+    <!-- TARJETAS UNISWAP, TELEGRAM Y COMUNIDAD -->   
     <div class="rkbz-grid-layout">
       
       <!-- Tarjeta 1: Uniswap (Pool, Datos y Comercio) -->
@@ -667,6 +671,15 @@
                 setTimeout(() => preloader.remove(), 600);
             }, 2400); // Duración exacta para que gire, resplandezca y abra la web
         });
-    </script>    
+    </script>
+    <!-- Inicialización nativa y instantánea de Telegram Mini App -->
+    <script>
+  if (window.Telegram && window.Telegram.WebApp) {
+    const tg = window.Telegram.WebApp;
+    tg.ready();
+    tg.expand();
+  }
+    </script>
+    <!-- FIN SCRIPT -->
 </body>
 </html>
